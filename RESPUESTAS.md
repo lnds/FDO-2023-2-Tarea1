@@ -24,3 +24,4 @@ Se modificó en total 5 veces (sin considerar la creación), se verificó con el
  - 5c2c29d Eduardo Díaz 2023-10-25: feat: Create README.md
 
 ## Anota los nombres de los integrantes del grupo que realizó la tarea
+Jaime Norambuena Sagredo
