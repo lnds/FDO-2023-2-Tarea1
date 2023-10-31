@@ -20,5 +20,8 @@ Explica cómo funciona el comando log del paso 5
     886d0f09e87b286f7f00e9cc46dd3fa6267fc6d8 feat: Update README.md
     5c2c29d467940616f0f486833fdb5633e8521d0b feat: Create README.md
 
-  
 Anota los nombres de los integrantes del grupo que realizó la tarea
+  Daniela Julio
+  Marisleydis Socas 
+  Erikson Fuenzalida
+  Eugenio Bravo
