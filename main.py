@@ -13,6 +13,15 @@ def get_db_connection():
                          password=os.environ['DB_PASSWORD'])
     return conn
 
+@app.route('/')
+def index():
+    conn = get_db_connection()
+    cur = conn.cursor()
+    cur.execute('SELECT * FROM books;')
+    books = cur.fetchall()
+    cur.close()
+    conn.close()
+    return render_template('index.html', books=books, version=VERSION)
 
 @app.route('/create/', methods=('GET', 'POST'))
 def create():
@@ -21,3 +30,4 @@ def create():
 # run the server 
 port = int(os.environ['PORT'])
 app.run(host="0.0.0.0", port=port)
+
