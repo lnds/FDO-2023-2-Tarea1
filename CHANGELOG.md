@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+ - 9e45f5f Rodrigo Navarro 2023-11-02: feat: implementa inserción de libros en la base de datos
+ - fb1fe49 Rodrigo Navarro 2023-11-02: feat: agrega el endpoint create
+ - dea2219 Rodrigo Navarro 2023-11-02: feat: agrega .gitignore
+
 ## [0.1.0] - 2023-10-25 
 
 ### Added
@@ -17,4 +21,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - feat: Create pyproject.toml
 - feat: Create main.py
 - feat: Create README.md
-  
