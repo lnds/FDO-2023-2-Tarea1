@@ -2,6 +2,7 @@ import os
 import psycopg2
 from flask import Flask, render_template, request, url_for, redirect
 
+
 VERSION = "v0.1.0"
 
 app = Flask(__name__)
