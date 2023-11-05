@@ -6,7 +6,12 @@
 2. Clonz el fork en ReplIt, usando el botón `Import from Github`, tal como se muestra en la imagen:
 
 ![](replit-from-github.png)
- 
+
+3. Para que el proyecto pueda levantar correctamente, es necesario revisar las variables de ambiente y correr el comando en la Shell:
+
+```
+pip install Flask psycopg2-binary 
+```
 
 ## Paso 1 
 
