@@ -15,8 +15,8 @@ Explica cómo funciona el comando log del paso 5
 
 ¿Cuántas veces modificó el archivo README.md el profesor? ¿Cómo determinaste ese número?
 
-- El archivo fue modificado 3 veces
-- Se llega a la conclusión dado que en los comentarios del commit se puede leer que se realizó un UPDATE, el cual incluye el nombre del archivo modificado. Además, aparece la persona que ejecutó el commit que en este caso es el profesor. Haciendo el commit de esa forma la lectura del historial de cambios es mucho más entendible y fácil de localizar. 
+- El archivo fue modificado 4 veces
+- Se realiza la ejecución del comando del paso 5 y determinamos el autor del commit y el comentario del commit: El autor es Eduardo díaz, el profesor, y el comentario del commit indica "UPDATE" y el nombre del archivo en cuestión, por lo que se realiza 4 veces esa acción.
 
 
 Anota los nombres de los integrantes del grupo que realizó la tarea
