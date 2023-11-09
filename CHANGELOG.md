@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- features added by [@rodrigooig] (https://github.com/rodrigooig):
+- b3a1df1 Replit user 2023-11-09: feat: implementa inserción de libros en la base de datos
+ - 0950a13 Replit user 2023-11-08: feat: agrega el endpoint create
+
 ## [0.1.0] - 2023-10-25 
 
 ### Added
