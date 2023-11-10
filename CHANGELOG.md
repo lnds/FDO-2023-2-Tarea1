@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+ - c6f4b1c Replit user 2023-11-09: feat: implementa inserción de libros en la base de datos
+ - 2552d28 Replit user 2023-11-09: cambios de datos de DB
+ - 8874b3f Replit user 2023-11-09: cambio version psycopg2
+ - 03afc8d Replit user 2023-11-09: feat: agrega el endpoint create
+
 ## [0.1.0] - 2023-10-25 
 
 ### Added
