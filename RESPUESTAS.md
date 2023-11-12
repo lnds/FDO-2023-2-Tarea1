@@ -5,11 +5,11 @@ aparece el codigo de main.py por linea indicando quien es el autor del cambio y 
 
 Explica cómo funciona el comando log del paso 5
 
-Respuesta : se usa para ver la historia de commits de un repositorio, pero mostrando la información de una manera personalizada. En este caso, lo que hace es que cuando lo ejecutas, te muestra una lista de los commits con detalles específicos:
+Respuesta : se usa para ver la historia de commits de un repositorio, pero mostrando la información de una manera personalizada. En este caso, lo que hace es que cuando lo ejecutas , te muestra una lista de los commits con detalles (formato) específicos:
 %h muestra la abreviatura del hash del commit.
 %an muestra el autor del commit.
 %as muestra la fecha del commit.
-: %s muestra el mensaje asociado al commit, es decir, lo que se escribió para describir qué se modificó.
+%s muestra el mensaje asociado al commit, es decir, lo que se escribió para describir qué se modificó.
 
 ¿Cuántas veces modificó el archivo README.md el profesor? ¿Cómo determinaste ese número?
 
