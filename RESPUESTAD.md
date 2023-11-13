@@ -12,7 +12,7 @@ El comando de log, nos indica que commits han sido realizados históricamente en
 - %as: author date, short format (YYYY-MM-DD)
 - %s: subject
 
-Esta información fue obtenida desde: [Git-Log-Pretty(https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-log.html#_pretty_formats)
+Esta información fue obtenida desde: [Git-Log-Pretty](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-log.html#_pretty_formats)
 
 ### Pregunta 3: ¿Cuántas veces modificó el archivo README.md el profesor? ¿Cómo determinaste ese número?
 
