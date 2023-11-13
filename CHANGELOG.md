@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- a8776cc franklin-cruces-c 2023-11-13: feat: implementa inserción de libros en la base de datos
+- e4eecd8 franklin-cruces-c 2023-11-13: feat: agrega el endpoint create
+  
 ## [0.1.0] - 2023-10-25 
 
 ### Added
