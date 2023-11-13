@@ -17,3 +17,8 @@
 - Anota los nombres de los integrantes del grupo que realizó la tarea
   
    Franklin Cruces
+
+
+Hay 2 errores en el archivo README.md
+   1. Esta escrito Clonz en lugar de Clona
+   2. Esta escrito Revia en lugar de Revisa
