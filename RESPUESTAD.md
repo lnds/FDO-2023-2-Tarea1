@@ -7,12 +7,12 @@ Cuando se ejecuta el comando git blame main.py nos entrega un historial, o log d
 ### Pregunta 2: Explica cómo funciona el comando log del paso 5
 
 El comando de log, nos indica que commits han sido realizados históricamente en el repositorio, dentro de la rama en la cual estamos situados. De la misma manera se realiza el formateo del log, de manera que tengo un formato " - %h %an %as: %s"
-%h: abbreviated commit hash
-%an: author name
-%as: author date, short format (YYYY-MM-DD)
-%s: subject
+- %h: abbreviated commit hash
+- %an: author name
+- %as: author date, short format (YYYY-MM-DD)
+- %s: subject
 
-Esta información fue obtenida desde: https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-log.html#_pretty_formats
+Esta información fue obtenida desde: [Git-Log-Pretty] (https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-log.html#_pretty_formats)
 
 ### Pregunta 3: ¿Cuántas veces modificó el archivo README.md el profesor? ¿Cómo determinaste ese número?
 
