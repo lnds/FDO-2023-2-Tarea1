@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+feat: agrega el endpoint create
+Update main.py
+feat: add a question
+Update README.md
+feat: add replit screen shot
+Update README.md
+Update README.md
+feat: Update README.md
+feat: added CHANGELOG
+
 ## [0.1.0] - 2023-10-25 
 
 ### Added
